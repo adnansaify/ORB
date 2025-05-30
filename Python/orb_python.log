@@ -1,0 +1,35 @@
+Loading and preparing data...
+Data loading completed in 2.03 seconds
+Identifying signal candles...
+Signal identification completed in 0.23 seconds
+Generating trading signals...
+Signal generation completed in 2.17 seconds
+Identifying trades...
+Trade identification completed in 20.95 seconds
+Calculating performance metrics...
+Performance calculation completed in 0.00 seconds 
+
+==================================================
+TRADING STRATEGY RESULTS
+==================================================
+Total Execution Time: 25.38 seconds
+Total Trades: 2140
+Total PnL: 2051.04
+Max Drawdown: -4714.41
+Sharpe Ratio: 0.0097
+Calmar Ratio: 0.0002
+Win Rate: 51.2%
+Average Win: 64.50
+Average Loss: -65.82
+
+First 5 Trades:
+         date          entry_time  entry_price           exit_time  exit_price  ...  transaction_cost    net_pnl   cum_pnl  running_max   drawdown
+0  2015-01-09 2015-01-09 09:35:00      8283.45 2015-01-09 15:15:00     8286.30  ...           0.00342   -2.85342  -2.85342     -2.85342    0.00000
+1  2015-01-12 2015-01-12 09:40:00      8271.10 2015-01-12 15:15:00     8319.55  ...           0.05814   48.39186  45.53844     45.53844    0.00000
+2  2015-01-13 2015-01-13 14:25:00      8318.05 2015-01-13 15:15:00     8304.90  ...           0.01578   13.13422  58.67266     58.67266    0.00000
+3  2015-01-14 2015-01-14 10:20:00      8291.40 2015-01-14 15:15:00     8273.05  ...           0.02202   18.32798  77.00064     77.00064    0.00000
+4  2015-01-15 2015-01-15 10:15:00      8403.55 2015-01-15 15:15:00     8510.45  ...           0.12828 -107.02828 -30.02764     77.00064 -107.02828
+
+[5 rows x 12 columns]
+
+Trades saved to: nifty_trades_results.csv
