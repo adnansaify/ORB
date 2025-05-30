@@ -3,7 +3,7 @@
 
 ## 🎯 Overview
 
-This repository demonstrates the implementation of an Opening Range Breakout (ORB) trading strategy across three different programming languages, showcasing performance optimization and domain expertise in quantitative finance. The strategy is based on the research paper ["Opening Range Breakout Strategy in Indian Market"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4729284) and analyzes NIFTY 50 minute-level data to identify breakout patterns from the 9:25 AM opening range candle.
+This repository demonstrates the implementation of an Opening Range Breakout (ORB) trading strategy across three different programming languages, showcasing performance optimization and domain expertise in quantitative finance. The strategy is based on the research paper ["Opening Range Breakout Strategy"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4729284) and analyzes NIFTY 50 minute-level data to identify breakout patterns from the 9:25 AM opening range candle.
 
 ## 📈 Strategy Logic
 
