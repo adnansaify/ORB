@@ -76,7 +76,7 @@ orb-strategy/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/orb-strategy.git
+   git clone https://github.com/adnansaify/ORB/.git
    cd orb-strategy
    ```
 
